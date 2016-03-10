@@ -1,0 +1,57 @@
+body,button, input, select, textarea,h1 ,h2, h3, h4, h5, h6 { font-family: Microsoft YaHei,'宋体' , Tahoma, Helvetica, Arial, "\5b8b\4f53", sans-serif;}
+
+#channelstatus{
+  padding:50px;
+  width:600px;
+  margin:10px auto;
+  background-color:#6699FF;
+}
+.title{
+  color:#ffffff;
+  font-size:36px;
+  padding-left:10px;
+}
+.btn{
+  float:right;
+  margin-bottom:10px;
+  margin-right:5px;
+}
+
+.channelonline{
+  background-color:#FF9900;
+  padding:10px 10px 2px 10px;
+}
+.channelonline p{
+  padding-left:70px;
+  color:#333333;
+  font-style: italic;
+  
+}
+.channelonline img{
+  float:left;
+  width:60px;
+  height:60px;
+  margin-right:10px;
+  margin-top:5px;
+  border:3px solid #ffffff;
+}
+.channeloffline{
+  background-color:#ffffff;
+  padding:10px 10px 2px 10px;
+  
+}
+
+.channeloffline h4{
+  padding-left:70px;
+  
+}
+.channeloffline p{
+  padding-left:70px;
+  color:#666666;
+}
+a h4{
+  font-size:24px;
+}
+a:hover{
+   text-decoration:none;
+ }
